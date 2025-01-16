@@ -1,5 +1,5 @@
 # Topic Title
-![](url for an image about your topic)
+![](https://i.ebayimg.com/images/g/CCEAAOSwu6xjMlyj/s-l1200.png)
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
@@ -9,13 +9,6 @@ One or several paragraphs.
 
 ## Section 2
 One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
-
-## Section 3
-One or several paragraphs for subsection 3.
 
 ## See also
 - [Resource 1](url)
